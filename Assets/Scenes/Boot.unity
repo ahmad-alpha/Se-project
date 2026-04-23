@@ -311,8 +311,8 @@ MonoBehaviour:
     seizures\u201D while playing video games.\r\n\nImmediately stop playing and consult
     a doctor if you experience any symptoms."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 72defa5e793506f499757892a927f468, type: 2}
-  m_sharedMaterial: {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials:
   - {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
   m_fontMaterial: {fileID: 0}
@@ -620,8 +620,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Beyond The Shadow
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 72defa5e793506f499757892a927f468, type: 2}
-  m_sharedMaterial: {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials:
   - {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
   m_fontMaterial: {fileID: 0}
@@ -816,8 +816,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Loading Game...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 72defa5e793506f499757892a927f468, type: 2}
-  m_sharedMaterial: {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials:
   - {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
   m_fontMaterial: {fileID: 0}
@@ -1090,8 +1090,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Photosensitive seizure warning\r"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 72defa5e793506f499757892a927f468, type: 2}
-  m_sharedMaterial: {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials:
   - {fileID: -3177935435773185206, guid: 72defa5e793506f499757892a927f468, type: 2}
   m_fontMaterial: {fileID: 0}
@@ -1352,6 +1352,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: FPSCounterCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7398026466015297678, guid: 7b42957476290ce45a6ef76e96e9c929, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7398026466015297678, guid: 7b42957476290ce45a6ef76e96e9c929, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b42957476290ce45a6ef76e96e9c929, type: 3}
 --- !u!1001 &8035665439845350616

@@ -49,7 +49,7 @@ public class SettingsScreen : MonoBehaviour
     private void ChangeVolume(float volume)
     {
         _volumeTXT.text = (int)(volume * 100) + "%";
-        _audioManager.SetSoundVolume(volume * 100f);
+       // _audioManager.SetSoundVolume(volume * 100f);
     }
 
     private float CalculateMixerVolume(float volume)

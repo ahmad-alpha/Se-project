@@ -36,7 +36,9 @@ namespace UI
                     SceneLoader sceneLoader = AllServices.Container.Single<SceneLoader>();
                     if (sceneLoader != null)
                     {
-                        sceneLoader.Load(SceneNames.LobbyScene, GameBootstrapper.Instance.StateMachine.Enter<LobbyState>);
+                        Debug.Log("scene loader is not null");
+                        sceneLoader.Load(SceneNames.LobbyScene);
+                        
                     }
                     
                     yield return null;
